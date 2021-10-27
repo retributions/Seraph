@@ -1,0 +1,15 @@
+{
+	"Token": "your token",
+	"Prefix": ">",
+
+	"Channel-Names": ["xans"], 
+	"Server-Names": ["xans"],
+	"Role-Names": ["xans"],
+	"Reason": ".gg/profile",
+
+	"Spam": true,
+
+	"Webhook-Names": ["solar", "solar"],
+	"Spam-Messages": ["@everyone discord.gg/profile", "@everyone discord.gg/profile"],
+	"Spam-Amount": 10000
+}
